@@ -43,18 +43,17 @@
 
 ## 📦 What You'll Find Here
 
-### Published Tools
+### 🔧 Published Tools
 
 * [d365fo-nuget-sync](https://github.com/vjanardhana12/d365fo-nuget-sync) — one-click sync of D365 F&O NuGet packages from LCS to Azure DevOps Artifacts
 
-### Publishing & Profile
+### 📝 Publications & Writing
 
 * [vjanardhana12.github.io](https://github.com/vjanardhana12/vjanardhana12.github.io) — personal site for tools, kits, guides, videos, blog, and snippets
+
+### 👤 Personal & Profile
+
 * [vjanardhana12](https://github.com/vjanardhana12/vjanardhana12) — profile README and public profile landing page
-
-### Private Working Repos
-
-* Internal and in-progress repos are intentionally kept private until they are ready to publish
 
 ---
 
